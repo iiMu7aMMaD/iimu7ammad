@@ -1,7 +1,7 @@
 {
   "name": "mu7ammad.se",
   "version": "2.0.0",
-  "description": "My portfolio website build with react!",
+  "description": "Never regret anything that made you smile.",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
