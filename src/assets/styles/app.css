@@ -24,3 +24,20 @@
   color: lightgrey;
 }
 
+.span::after {
+  margin: 6px;
+  display: inline;
+  content: "|";
+  background: #121314;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
