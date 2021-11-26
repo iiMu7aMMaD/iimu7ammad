@@ -18,17 +18,17 @@ function App() {
         <div>
           <img src={logo} className="App-logo" alt="logo" />
         </div>
-        <div >
+        <div>
           <div>
             <h1>
-              <span >Muhammad</span> <span >H</span>
+              <span>Muhammad</span> <span >H</span>
             </h1>
             <h3>
               <span>ii_mu7ammad</span>
             </h3>
           </div>
           <h4>
-            <span>Never regret anything that made you smile.</span>
+            <span className="span">Never regret anything that made you smile.</span>
           </h4>
         </div>
       </header>
