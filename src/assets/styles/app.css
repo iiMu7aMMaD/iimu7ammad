@@ -25,7 +25,7 @@
 }
 
 .span::after {
-  margin: 6px;
+  margin: 1px;
   display: inline;
   content: "|";
   background: #121314;
