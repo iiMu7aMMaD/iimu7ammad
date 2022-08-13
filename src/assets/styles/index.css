@@ -9,8 +9,12 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  
+  cursor: url("https://mu7ammad.se/cursor.png"), auto;
 }
 
 ::selection {
   color: rgb(255, 255, 255, 0.5);
 }
+
+
