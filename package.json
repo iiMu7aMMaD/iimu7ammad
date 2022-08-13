@@ -1,7 +1,7 @@
 {
   "name": "mu7ammad.se",
   "version": "2.0.0",
-  "description": "Never regret anything that made you smile.",
+  "description": "Don’t give up on your dreams, or your dreams will give up on you.",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iiMu7aMMaD/mu7ammad.se.git"
+    "url": "git+https://github.com/iiMu7aMMaD/iimu7ammad.git"
   },
   "keywords": [
     "reactjs",
@@ -32,7 +32,7 @@
   "author": "Muhammad (muhammad.hadidi@outlook.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iiMu7aMMaD/mu7ammad.se/issues"
+    "url": "https://github.com/iiMu7aMMaD/iimu7ammad/issues"
   },
   "homepage": "",
   "dependencies": {
