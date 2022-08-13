@@ -28,7 +28,7 @@ function App() {
             </h3>
           </div>
           <h4>
-            <span className="span">¨Don’t give up on your dreams, or your dreams will give up on you.¨</span>
+            <span className="span">Don’t give up on your dreams, or your dreams will give up on you.</span>
           </h4>
         </div>
       </header>
