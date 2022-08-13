@@ -1,5 +1,5 @@
 import './assets/styles/app.css';
-import logo from './assets/images/avatar.png';
+import logo from './assets/images/pack.png';
 import Wave from 'react-wavify'
 
 function App() {
