@@ -1,7 +1,7 @@
 {
-  "name": "mu7ammad.se",
+  "name": "mu7ammad.netlify.app",
   "version": "2.0.0",
-  "description": "Don’t give up on your dreams, or your dreams will give up on you.",
+  "description": "Imagine a place...",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
